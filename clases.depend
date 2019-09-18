@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568820795 source:d:\clases\main.cpp
+	<iostream>
+	"var.h"
+
+1568820724 d:\clases\include\var.h
+
+1568820848 source:d:\clases\src\var.cpp
+	<iostream>
+	"var.h"
+
